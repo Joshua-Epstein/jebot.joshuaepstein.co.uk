@@ -1,4 +1,4 @@
-# 1.0\[BETA\] - Patch Note - 2020-01-09
+# 1.0 \[BETA\] - Patch Note - 2020-01-09
 
 ### Bug Fixes
 
