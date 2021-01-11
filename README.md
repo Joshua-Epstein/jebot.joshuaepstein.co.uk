@@ -6,7 +6,7 @@ Fixed the bug where you wouldnt get a role when you click the tick reaction in t
 
 ### Notes
 
-This is the first full version and the first website for patch notes, if there are any problems with this page then please let us know at contact@joshuaepstein.co.uk
+This is the first full version and the first website for patch notes, if there are any problems with this page then please let us know at [contact@joshuaepstein.co.uk](mailto:contact@joshuaepstein.co.uk)
 
 ### New Commands
 
