@@ -4,10 +4,6 @@
 
 Fixed the bug where you wouldnt get a role when you click the tick reaction in the rules channel
 
-### Notes
-
-This is the first full version and the first website for patch notes, if there are any problems with this page then please let us know at [contact@joshuaepstein.co.uk](mailto:contact@joshuaepstein.co.uk)
-
 ### New Commands
 
 * !live – This command will send 2 messages, message 1 is `Hey @everyone` \(point of this is to ping people so they know that I have gone live and to see the next message\), Message 2 is an embed that has the Title of the Stream, this title is taken from my stream using decapi. It also has the description of the game and 1 field of the viewers on the stream. There is also an image that is a photo that I took from the perspective of my stream.
