@@ -25,9 +25,9 @@ There are no new commands in this update.
 * !cat - Displays a random picture of a cat
 * !covid - Displays stats about covid-19
 * !nick - Changes the nickname of a user
-* !playaudio - Play some audio \(Removing in next patch\)
-* !playaudio2 - Play some audio2 \(Removing in next patch\)
-* !playaudio3 - Play some audio3 \(Removing in next patch\)
+* !playaudio - Play some audio - DISABLED
+* !playaudio2 - Play some audio2 - DISABLED
+* !playaudio3 - Play some audio3 - DISABLED
 * !rolecounter - Enables a channel to count the number of members in a role or a guild
 * !setverification - Sets the verification channel for the discord
 * !slow - Changes the slowmode duration for this channel
@@ -95,16 +95,12 @@ There are no new commands in this update.
 * suggestions.js
 * temp-channel.js
 * thanks-leaderboard.js
-* verification-channels.js
-* welcome.js
+* verification-channels - 
+* welcome - Sends a message in the welcome channel to welcome new users.
 
 #### Features in the moderation folder:
 
-* mute.js
-
-{% hint style="info" %}
-If you would like to see the code from this bot, contact us via contact@joshuaepstein.co.uk.
-{% endhint %}
+* mute - This checks for users muted every minute. Logging them in the console
 
 
 
