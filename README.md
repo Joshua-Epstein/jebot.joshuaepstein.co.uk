@@ -1,4 +1,8 @@
-# 1.1 \[BETA\] - Patch Note - 2020-01-12
+---
+description: 'Patch notes for version 1.2. - [ BETA ]'
+---
+
+# 1.2 - 1/02/2021
 
 ### MAIN NEW FEATURE:
 
