@@ -1,12 +1,16 @@
 # 1.1 \[BETA\] - Patch Note - 2020-01-12
 
-### Bug Fixes
+### MAIN NEW FEATURE:
 
-Level features where not in the correct folder so now the levels will work.
+There is now a twitch bot intergration with the discord bot. The code are all in the same files and this means that we can intergrate the two in some cool ways. Expect things like that soon.
+
+
 
 ### New Commands
 
-* !report - Reports a user - Usage: !report {@username} {Reason}
+{% hint style="warning" %}
+There are no new commands in this update.
+{% endhint %}
 
 ### All commands \(exluding the commands above\)
 
@@ -29,20 +33,21 @@ Level features where not in the correct folder so now the levels will work.
 
 #### Moderation commands
 
-* !cdelete - Channel Delete
-* !clear - Clears the mentioned message from the channel
-* !\_ismuted - Displays the mute information for a user
-* !kick - Kicks a member from the discord server
-* !listwarnings - List the warnings that the mentioned user has
-* !\_mute - Mutes a user
+* !cdelete - Channel Delete - Can be used only by Admins
+* !clear - Clears the mentioned message from the channel - Can be used only by Admins
+* !\_ismuted - Displays the mute information for a user - Can be used only by moderators
+* !kick - Kicks a member from the discord server - Can be used only only by moderators
+* !listwarnings - List the warnings that the mentioned user has - Can be used only by moderators
+* !\_mute - Mutes a user - Can be used only by moderators
 * !exit - Kills the bot, Has to be used by Joshua Epstein
-* !tm - Adds a user as a Trainee mod
-* !unmute - Unmutes a user
-* !warn - Warns the mentioned user
+* !tm - Adds a user as a Trainee mod - Can be used only by moderators
+* !unmute - Unmutes a user - Can be used only by moderators
+* !warn - Warns the mentioned user - Can be used only by moderators
+* !report - Reports a user - Usage: !report {@username} {Reason} - Can be used by any user
 
 #### Commands for the economy system
 
-* !addbalance - Adds coins - Mods Only
+* !addbalance - Adds coins - Admins Only
 * !balance - View your balance
 * !daily - Claim daily rewards
 * !pay - Pays the mentioned user coins that you have
@@ -54,18 +59,18 @@ Level features where not in the correct folder so now the levels will work.
 
 #### Commands to handle games
 
-* !aucat - Specifies the category to create Among Us voice Channels in - MODS ONLY
-* !au - Makes it easier to play "Among us" with friends, eg. !au \(code\) \(region: eu/na\) - Creates an audio channel with that info
+* !aucat - Specifies the category to create Among Us voice Channels in - MODS ONLY - COMMAND DISABLED
+* !au - Makes it easier to play "Among us" with friends, eg. !au \(code\) \(region: eu/na\) - Creates an audio channel with that info - COMMAND DISABLED
 * !fasttype - Starts a fast type game
 
 #### Commands to help thank people
 
-* !setleaderboard - Sets up a thanks Leaderboard in that channel - MODS ONLY
+* !setleaderboard - Sets up a thanks Leaderboard in that channel - ADMINS ONLY
 * !thank - Thanks a user for helping you
 
 #### Commands that give links to my social media
 
-* !live – This command will send 2 messages, message 1 is `Hey @everyone` \(point of this is to ping people so they know that I have gone live and to see the next message\), Message 2 is an embed that has the Title of the Stream, this title is taken from my stream using decapi. It also has the description of the game and 1 field of the viewers on the stream. There is also an image that is a photo that I took from the perspective of my stream. - MODS ONLY
+* !live – This command will send 2 messages, message 1 is `Hey @everyone` \(point of this is to ping people so they know that I have gone live and to see the next message\), Message 2 is an embed that has the Title of the Stream, this title is taken from my stream using decapi. It also has the description of the game and 1 field of the viewers on the stream. There is also an image that is a photo that I took from the perspective of my stream. - MODS ONLY - _**Update coming soon so that you message the bot via dm's and it will send the message.**_
 * !youtube – Returns the youtube channel URL \([https://joshuaepstein.co.uk/youtube](https://joshuaepstein.co.uk/youtube) - Got to get the promo in there…\)
 
 
